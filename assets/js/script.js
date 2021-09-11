@@ -33,7 +33,7 @@ $(document).ready(function (){
         })
     }
 
-$("hour8 .task").val(localStorage.getItem("hour8"));
+$("#hour8 .task").val(localStorage.getItem("hour8"));
 $("#hour9 .task").val(localStorage.getItem("hour9"));
 $("#hour10 .task").val(localStorage.getItem("hour10"));
 $("#hour11 .task").val(localStorage.getItem("hour11"));
