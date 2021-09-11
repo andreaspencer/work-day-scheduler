@@ -1,0 +1,37 @@
+body {
+    font-family: monospace;
+}
+
+.page-title {
+    background-color: rosybrown;
+    color: lightblue;
+}
+
+textarea {
+    font-size: medium;
+    color: lightblue;
+    height: 100%;
+}
+
+.time-block {
+    border-top: dotted pink;
+}
+
+.save-btn {
+    color: rosybrown;
+}
+
+.past {
+    background-color: #d3d3d3;
+    color: white;
+  }
+  
+  .present {
+    background-color: #ff6961;
+    color: white;
+  }
+  
+  .future {
+    background-color: #77dd77;
+    color: white;
+  }
