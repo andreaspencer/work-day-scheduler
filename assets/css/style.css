@@ -8,13 +8,18 @@ body {
 }
 
 textarea {
-    font-size: medium;
-    color: lightblue;
-    height: 100%;
+    font-size: 15px;
+    color: rgb(104, 161, 180);
+    line-height: 5;
+}
+
+.hour {
+    text-align: center;
+    justify-content: center;
 }
 
 .time-block {
-    border-top: dotted pink;
+    border-top: dotted rosybrown;
 }
 
 .save-btn {
@@ -23,15 +28,15 @@ textarea {
 
 .past {
     background-color: #d3d3d3;
-    color: white;
+    color: black;
   }
   
   .present {
-    background-color: #ff6961;
-    color: white;
+    background-color: rgb(236, 104, 104);
+    color: black;
   }
   
   .future {
-    background-color: #77dd77;
-    color: white;
+    background-color: #a4e7a4;
+    color: black;
   }
