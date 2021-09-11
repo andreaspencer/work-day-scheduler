@@ -15,11 +15,11 @@ textarea {
 
 .hour {
     text-align: center;
-    justify-content: center;
 }
 
 .time-block {
     border-top: dotted rosybrown;
+    line-height: 5;
 }
 
 .save-btn {
